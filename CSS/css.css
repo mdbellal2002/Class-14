@@ -1,0 +1,83 @@
+#banner {
+    width: 1320px;
+    margin: 0 auto;
+}
+
+#banner .one{
+    height: 200px;
+    background: #000;
+}
+#banner .one h1{
+    color:#fff;
+    margin: 86px 0;
+    text-align: center;
+    background: red;
+}
+#banner .two{
+    height: 200px;
+    background: #444;
+}
+#banner .two h1{
+    color:#fff;
+    margin: 86px 0;
+    text-align: center;
+    background: red;
+}
+#banner .three{
+    height: 200px;
+    background: #ff5200;
+}
+#banner .three h1{
+    color:#fff;
+    margin: 86px 0;
+    text-align: center;
+    background: rgb(255, 119, 0);
+}
+#banner .four{
+    height: 200px;
+    background: #fc4;
+}
+#banner .four h1{
+    color:#fff;
+    margin: 86px 0;
+    text-align: center;
+    background: red;
+}
+#banner .five{
+    height: 200px;
+    background: green;
+}
+#banner .five h1{
+    color:#fff;
+    margin: 86px 0;
+    text-align: center;
+    background: red;
+}
+#banner .six{
+    height: 200px;
+    background: #789;
+}
+#banner .six h1{
+    color:#fff;
+    margin: 86px 0;
+    text-align: center;
+    background: red;
+}
+
+
+/*======================================================*/
+#btn {
+    margin-top: 50px;
+    padding: 5px 25px;
+    background: green;
+    color: #fff;
+    font-size: 20px;
+    border: 0;
+    border-radius: 5px;
+
+    margin-bottom: 10px;
+}
+.seven{
+    height: 400px;
+    background: green;
+}
